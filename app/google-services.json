@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714023264318",
+    "project_id": "whatsapp-clone-e0f66",
+    "storage_bucket": "whatsapp-clone-e0f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714023264318:android:7dfb17881f4b3caa7bf16f",
+        "android_client_info": {
+          "package_name": "com.mastercoding.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8VJgLkM4UKJ2jnUyvtJbp-mT9GnpW8lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
